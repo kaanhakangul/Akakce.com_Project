@@ -31,6 +31,7 @@ public class US107 extends BaseDriver {
         Assert.assertTrue("Hesabınız silinemedi.", msg.getText().contains("Hesabın silindi."));
 
 
+        //
         BekleVeKapat();
 
 
